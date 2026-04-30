@@ -1,0 +1,1610 @@
+fileFormatVersion: 2
+guid: c25198e09aa1b844e9f243b2d2e381f3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mmx1_iOS_X_0
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1415
+        width: 32
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a183064261c4b44cbd21caba54d34a6
+      internalID: 435817489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1416
+        width: 88
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b709d521569d234dbac926b44dccebf
+      internalID: -1660188205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_2
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1419
+        width: 118
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa30cf6ea36a5294c8905055a3e9281e
+      internalID: -384101041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_3
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1419
+        width: 118
+        height: 128
+      alignment: 9
+      pivot: {x: 0.47373936, y: 0.008896828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef889f62aa010d4dacc74a8050bb91a
+      internalID: -2045504174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_4
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1419
+        width: 118
+        height: 140
+      alignment: 9
+      pivot: {x: 0.49249682, y: 0.0035600935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e62f3908e105584d9e84b95572d8f32
+      internalID: -131565609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_5
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1418
+        width: 116
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdf4da02fc3b364c82a6bd46d97a4ce
+      internalID: 2090712027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_6
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1214
+        width: 74
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2624c324dae12ca40b93d617fedc2d91
+      internalID: 2115866864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_7
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1218
+        width: 108
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e45788226b4352448364d7b70845c54
+      internalID: 635840233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_8
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1210
+        width: 107
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572fedbcdcf969d44b46ee1e8b865309
+      internalID: 1526364512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_9
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1217
+        width: 124
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e1d4f4068f9a947a184905ec9a24b8
+      internalID: -168157831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_10
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1054
+        width: 120
+        height: 136
+      alignment: 9
+      pivot: {x: 0.46480206, y: 0.0051763197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d2aae0bad004b48832e67fe2d9c77a
+      internalID: 177304043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1056
+        width: 79
+        height: 136
+      alignment: 9
+      pivot: {x: 0.4420792, y: 0.008264878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e199a8e27cc5d47bd947f4db01d31d
+      internalID: 599713227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_12
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1056
+        width: 92
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5076519, y: 0.007229178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30817820158e8ea468e8d01af2eb6f82
+      internalID: 623066551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_13
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1055
+        width: 132
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5026666, y: 0.009362423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5620f75d7373a5e48b93d2f64695ebc8
+      internalID: -2064658550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_14
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1054
+        width: 88
+        height: 136
+      alignment: 9
+      pivot: {x: 0.47200152, y: 0.008264878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c33b59df22670439febabddfeb5e63
+      internalID: 1223308106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_15
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1054
+        width: 98
+        height: 140
+      alignment: 9
+      pivot: {x: 0.4856337, y: 0.0047154017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b634dbbcbdb2e93408835b66a73751ee
+      internalID: 560790958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_16
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1054
+        width: 135
+        height: 132
+      alignment: 9
+      pivot: {x: 0.42438966, y: 0.0066962964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd77c6c31281dbb40bd59d65e0214d6f
+      internalID: -2044217269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_17
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1060
+        width: 152
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7de081cfac707f42ab1dc88b4d81d01
+      internalID: 680299690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_18
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 868
+        width: 115
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb40240bf345944ea77a4593f410f12
+      internalID: 297416042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_19
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 870
+        width: 128
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4a253b57cc10a428e86682823273d5
+      internalID: -495443004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_20
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 874
+        width: 150
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158638fc05f457f499266d3bc498e6c4
+      internalID: 68186108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_21
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 878
+        width: 124
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddc6042f422e0d4db65b6d8207ec31e
+      internalID: 987981425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_22
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 879
+        width: 132
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff4e64b008e1f4428a378066837866c
+      internalID: 148831279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_23
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 882
+        width: 148
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f515fd999740614f990b80540dfa523
+      internalID: 2115849843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_24
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 907
+        width: 192
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202a30094bd58e74c8adfb77d2fb3846
+      internalID: -291608129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_25
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 662
+        width: 108
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2268a3eedcfd2bc409a007193f47b875
+      internalID: -1933403092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_26
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 661
+        width: 110
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b308423c4a633946a181083ced25f94
+      internalID: 522694069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_27
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 666
+        width: 128
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e79b65f70fda0b438275e3f561043f6
+      internalID: 480241416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_28
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 660
+        width: 70
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c889ae0c5800d24db3f6f2508fd412e
+      internalID: -846801298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_29
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 669
+        width: 80
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb2c346c44ca634b8171b54caf350f8
+      internalID: -1769058357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_30
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 670
+        width: 80
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab279d4711cf2584e9a8c3b58884d587
+      internalID: -1967261875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_31
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 661
+        width: 70
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cf7c8c603b6394ab7ddcb502a544b3
+      internalID: -529201930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_32
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 706
+        width: 82
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6ebd8e4a9e0684cb7ae552940eb4f6
+      internalID: 1028035559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_33
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 662
+        width: 105
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72264a48286bf40489377a3e911294db
+      internalID: 804340480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_34
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 450
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e405f366c07e90419d14958ef7a1542
+      internalID: 2019589328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_35
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 450
+        width: 118
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8e4906ff5e76143a7e338e43b97f47
+      internalID: 699459931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_36
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 450
+        width: 118
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d345a7a9ccdc07e4497f139f331226b9
+      internalID: 238627122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_37
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 445
+        width: 96
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac6d4971c9fdf94ab5f2504a415b643
+      internalID: -2103126573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_38
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 437
+        width: 114
+        height: 136
+      alignment: 9
+      pivot: {x: 0.63316107, y: 0.008441027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc79b9777fca4a49b6a0a36a75f61ff
+      internalID: -285273396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_39
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 422
+        width: 128
+        height: 190
+      alignment: 9
+      pivot: {x: 0.5707021, y: 0.09283399}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d831f4f5abb5944a88881792c257e7
+      internalID: -940496741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_40
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 436
+        width: 98
+        height: 144
+      alignment: 9
+      pivot: {x: 0.25402272, y: 0.02395312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f192165aa94833458c4f0fc95f55c23
+      internalID: -1438424561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_41
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 404
+        width: 128
+        height: 192
+      alignment: 9
+      pivot: {x: 0.26459217, y: 0.0841128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acdb1a3de780074eb2d317233585337
+      internalID: 284017885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_42
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 450
+        width: 136
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d49610e7648e54ea12f3a87141d104
+      internalID: 1120354393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_43
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 230
+        width: 112
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43180b2b0fc1e04c957c2fe52aea849
+      internalID: 1284043019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_44
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 231
+        width: 108
+        height: 131
+      alignment: 9
+      pivot: {x: 0.69723964, y: 0.009932773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4327154b56a66c4889ef2eae9527dc3
+      internalID: -344578349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_45
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 232
+        width: 136
+        height: 132
+      alignment: 9
+      pivot: {x: 0.56743085, y: 0.011320172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70af4bd767fcf1c4c801fc4e1dbaaada
+      internalID: -905108656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_46
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 231
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d44b1b0870d19042b514d776a300831
+      internalID: -2059441250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_47
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 231
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81f5d92d7b55d64ca49536b7f07f8b4
+      internalID: -1967650215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_48
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 231
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7d158d6598d6f46bb52e0e93a7607f
+      internalID: -493841666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_49
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 231
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331f82f6a70c171409edf04b7ffad003
+      internalID: 2115642290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_50
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 45
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1eca77128d1bf340a0b95c993662940
+      internalID: 1660544263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_51
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 45
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e77d6b02d1d1b846a0c830747d69cd0
+      internalID: -1912033264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_52
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 45
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb90033094e2d6c48a547bad2d987fd0
+      internalID: 745355852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_53
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 45
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f29c95b9e6955a43b1c274c854b8267
+      internalID: -1164064429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_54
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 45
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954cecb6b5fd0f14aa1f2a0068108e8a
+      internalID: 1478208506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_55
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 45
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510fcb2d8ec51824f909091c23a1afab
+      internalID: -1193349440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_56
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 46
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0138cbf38b18ef54bba4bbe7eeec173f
+      internalID: -419336391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_57
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 46
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dd8914f9b6c674d968347aab502f42
+      internalID: -47746885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_58
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 46
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33de23f35911f44692f54f0792990fa
+      internalID: -97994324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_59
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 16
+        width: 74
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9b2126c7665b64a9ef685870c9da0a
+      internalID: -481152939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_60
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 14
+        width: 74
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de1c97aa2cba9a4598d9edf3f2f2cae
+      internalID: 1076287119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_61
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 15
+        width: 74
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fc6885b0c3b914aa8aadece67a3b8e
+      internalID: -1534877920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_62
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 16
+        width: 74
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e076674187d6064f9433c05c04548f3
+      internalID: 23622719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_63
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 16
+        width: 74
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2a6657c29fe0748aa68955b5e30588
+      internalID: -1899732460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_64
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 16
+        width: 74
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8fc843f4990c44ab5c33f4467bc597
+      internalID: 465066809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_65
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 16
+        width: 74
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce2dbc63baec9d4ba13beda99be743b
+      internalID: 668131569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_66
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 17
+        width: 74
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875f07dc8dcd08047ad8efd7a142c32a
+      internalID: -1613487967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_iOS_X_67
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 17
+        width: 74
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d630719c3579cd48bf75f9b56a9142d
+      internalID: 1758674617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5cff94c9994a73f45b29e506f9fc0ada
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mmx1_iOS_X_0: 435817489
+      mmx1_iOS_X_1: -1660188205
+      mmx1_iOS_X_10: 177304043
+      mmx1_iOS_X_11: 599713227
+      mmx1_iOS_X_12: 623066551
+      mmx1_iOS_X_13: -2064658550
+      mmx1_iOS_X_14: 1223308106
+      mmx1_iOS_X_15: 560790958
+      mmx1_iOS_X_16: -2044217269
+      mmx1_iOS_X_17: 680299690
+      mmx1_iOS_X_18: 297416042
+      mmx1_iOS_X_19: -495443004
+      mmx1_iOS_X_2: -384101041
+      mmx1_iOS_X_20: 68186108
+      mmx1_iOS_X_21: 987981425
+      mmx1_iOS_X_22: 148831279
+      mmx1_iOS_X_23: 2115849843
+      mmx1_iOS_X_24: -291608129
+      mmx1_iOS_X_25: -1933403092
+      mmx1_iOS_X_26: 522694069
+      mmx1_iOS_X_27: 480241416
+      mmx1_iOS_X_28: -846801298
+      mmx1_iOS_X_29: -1769058357
+      mmx1_iOS_X_3: -2045504174
+      mmx1_iOS_X_30: -1967261875
+      mmx1_iOS_X_31: -529201930
+      mmx1_iOS_X_32: 1028035559
+      mmx1_iOS_X_33: 804340480
+      mmx1_iOS_X_34: 2019589328
+      mmx1_iOS_X_35: 699459931
+      mmx1_iOS_X_36: 238627122
+      mmx1_iOS_X_37: -2103126573
+      mmx1_iOS_X_38: -285273396
+      mmx1_iOS_X_39: -940496741
+      mmx1_iOS_X_4: -131565609
+      mmx1_iOS_X_40: -1438424561
+      mmx1_iOS_X_41: 284017885
+      mmx1_iOS_X_42: 1120354393
+      mmx1_iOS_X_43: 1284043019
+      mmx1_iOS_X_44: -344578349
+      mmx1_iOS_X_45: -905108656
+      mmx1_iOS_X_46: -2059441250
+      mmx1_iOS_X_47: -1967650215
+      mmx1_iOS_X_48: -493841666
+      mmx1_iOS_X_49: 2115642290
+      mmx1_iOS_X_5: 2090712027
+      mmx1_iOS_X_50: 1660544263
+      mmx1_iOS_X_51: -1912033264
+      mmx1_iOS_X_52: 745355852
+      mmx1_iOS_X_53: -1164064429
+      mmx1_iOS_X_54: 1478208506
+      mmx1_iOS_X_55: -1193349440
+      mmx1_iOS_X_56: -419336391
+      mmx1_iOS_X_57: -47746885
+      mmx1_iOS_X_58: -97994324
+      mmx1_iOS_X_59: -481152939
+      mmx1_iOS_X_6: 2115866864
+      mmx1_iOS_X_60: 1076287119
+      mmx1_iOS_X_61: -1534877920
+      mmx1_iOS_X_62: 23622719
+      mmx1_iOS_X_63: -1899732460
+      mmx1_iOS_X_64: 465066809
+      mmx1_iOS_X_65: 668131569
+      mmx1_iOS_X_66: -1613487967
+      mmx1_iOS_X_67: 1758674617
+      mmx1_iOS_X_7: 635840233
+      mmx1_iOS_X_8: 1526364512
+      mmx1_iOS_X_9: -168157831
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

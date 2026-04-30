@@ -1,0 +1,1766 @@
+fileFormatVersion: 2
+guid: 6812d282082f14c4f92392bbac490c8b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dynamo_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 864
+        width: 8
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d633cd9b32b6341937b03aaf96d22b
+      internalID: -464120021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 864
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dec2a46e0dcd0344ac246dabf05f7b2
+      internalID: 1858707541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 860
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4032bfbe03aa3524d93417076b01d0d6
+      internalID: -697814877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 850
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4340bce8296bd3a4c9d2ca6134cdc83d
+      internalID: 802535673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 841
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830423716926c5a419895420ab80c554
+      internalID: 1646795521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_5
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 843
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6615f2a33c9d248adfef8315286f2a
+      internalID: -809964167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_6
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 841
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fb6edbf2373d94e990a3f3b70eb3d9
+      internalID: 1682044868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_7
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 844
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12af743b23721b40aba5aff78b11ca9
+      internalID: 11437382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_8
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 844
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ac7d728c140a04b8c0afebf7e88213
+      internalID: 311091678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_9
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 844
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b59b4d1d3e6544cb12e1f69a4950dd
+      internalID: 1663560530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_10
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 844
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b7206d0fccc8a4baca06adb88d7ace
+      internalID: 860396502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_11
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 844
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bee89e777d58743b87078e870f807b
+      internalID: 456474818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_12
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 844
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce7ae4e200f0f1498e4fbf144bac886
+      internalID: 1867626227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 756
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ac9c0d415aad14bb9858c4b027f0b3
+      internalID: 1075588451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 758
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735a67a2b72f77849bfca0f59d69d2a3
+      internalID: -1544265108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 759
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beba4346a71204f45945a7168b8ad0a5
+      internalID: 839040140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_16
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 761
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7312d1b2dba5ec14992b835e69523c32
+      internalID: 843261101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 761
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf6805562b4d1644a9f08889e4876c4
+      internalID: 10052674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_18
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 761
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad564928cfda3e48aad24ae3a3a30e7
+      internalID: -612775463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_19
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 761
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0179dd78775d124e931db3fd75f9f60
+      internalID: 644828304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_20
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 761
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34827212f0b984e40bdb102f144dc445
+      internalID: 223374425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_21
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 757
+        width: 97
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23c6ff05ff13fb428b20f98723b52cb
+      internalID: 1710568306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_22
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 757
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9004c01deea52314e981627a1b4f0ecc
+      internalID: 1438528636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 679
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c0b7f60e73152448393e7e5336747d
+      internalID: -2083298919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_24
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 678
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edaab942b0ea51428aba1c6edf4d34a
+      internalID: -2117322321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_25
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 677
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f2bb97cb1066d4d9726e0f24fd8b46
+      internalID: -844628869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_26
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 677
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908a463882058084c895b42b932ade1f
+      internalID: -1594086904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_27
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 673
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0b25e621b128e4d8611b884925abb5
+      internalID: -1467452508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_28
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 676
+        width: 71
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993576801a70a2240b6c44567e8f8a31
+      internalID: 440513843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_29
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 676
+        width: 68
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aad06cfb97734d42910cdf47cf129ce
+      internalID: -493290605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_30
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 676
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d870ddf0fe5c4f4fa05232b7c220eb7
+      internalID: 828641123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_31
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 676
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347883a098bac124c8957b50ce0dd41f
+      internalID: -938490178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_32
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 580
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29e0ee6753d4e148b3554f49a82d8ea
+      internalID: -1272156132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_33
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 587
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb60b4a4f23210345a5049194fae37f3
+      internalID: -792644594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_34
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 579
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c1411d097ffbf41bee8d675fb5d5dd
+      internalID: -1974138545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_35
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 578
+        width: 36
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1247b0842ee32b42aa9d40c937c5646
+      internalID: 919045996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_36
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 581
+        width: 51
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf46f4b762fa3914cb09e63294465dc8
+      internalID: -1919616020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_37
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 583
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9593f817008a34499d780c55af236ba
+      internalID: -2142414451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 479
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32ca7f13f251ca4997531d10d51f013
+      internalID: 2146377873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_39
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 482
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76edb123bd1d1ac41b9b6a3a21781c2b
+      internalID: -180613745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 481
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d899804ef97dc04586b23940b6b7d59
+      internalID: -1348511808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_41
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 481
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f94a6db435fd3429817830a99a3c28
+      internalID: 2037354364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_42
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 481
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead1351619a85644aa756998314d0fed
+      internalID: -844488850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_43
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 482
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7442ec212c1b6834991b4aa9c37aba6b
+      internalID: 209546832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_44
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 483
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c372fcddd6faa634ba2a988ae662316a
+      internalID: -195003296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_45
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 392
+        width: 131
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40e14e93b88a3244810252e0bd7fd2b
+      internalID: 669270318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_46
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 359
+        width: 170
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe6c84aba36b654e819e17253a82997
+      internalID: 172806017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_47
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 403
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba65f13f6211774682e1d70ee3467b4
+      internalID: 812079350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_48
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 404
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9430b8769847b9341a105b4a15096655
+      internalID: -1210197096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_49
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 399
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccc28078640cf9408b0b01f83b334d8
+      internalID: -1463375149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_50
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 282
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e2e6fe505318d4c9a729c30b783748
+      internalID: 1737193044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_52
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 282
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0da28b557a7fb14b9ce0a6140e1ded0
+      internalID: -343462316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_53
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 282
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cef4ad9002efd4b84d8f2fec5f5284
+      internalID: 766540849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_54
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 282
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0414e9b6e91d3468ed9f5e735f0f00
+      internalID: 1473830770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_55
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 282
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71add9e949a12f04c89ef3a04c92bb78
+      internalID: 642941815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_56
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 282
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b1da8f577657049928907bc2f30385
+      internalID: 453728874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_57
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 282
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b54b33c06645545981f8934419d675
+      internalID: 1758241977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_58
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 282
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93ef0ab80d887d47a0fabae7adc89e9
+      internalID: -1199124357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_59
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 282
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4fe1f7e0ed0154799d6d3d6aabafec
+      internalID: -2128180289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_60
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 282
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740f41accb711ab47b00692e6fe8c6b0
+      internalID: 2054786602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_61
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 282
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6fa4c119524f24aa19c60a9ed152b9
+      internalID: 1847318658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_62
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 178
+        width: 51
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b2059f236a8934fa0a903882641ed4
+      internalID: -1914995700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 178
+        width: 51
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044ee064996f92c46853ca682086a0be
+      internalID: 236037285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_64
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 178
+        width: 54
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90659f5180ee46c4884351e38d1de650
+      internalID: -1007203131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_65
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 178
+        width: 60
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15536a3e4ed91ab4384b522bedfa6679
+      internalID: 1736820528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_66
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 176
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b071b1003713345887d27337a1cb87
+      internalID: -1863001092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_67
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 175
+        width: 83
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ef15aa70da4294f93ad614732d591b
+      internalID: -2039316105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_68
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 176
+        width: 83
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d032978af7055d48819eb3f0de3602c
+      internalID: 79960326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_69
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 177
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3771ed4ffea22a41a1c4b5e51e52c53
+      internalID: 525446102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_70
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 92
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a63c123f9cd2c048974c081e5f77012
+      internalID: 1046645243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_71
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 89
+        width: 126
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e9aca407a8d5a478d4aea3eac8a96d
+      internalID: 1667131467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_72
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 89
+        width: 158
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc44ed409ca2d964a9a7bcce32987a2f
+      internalID: 882029265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_73
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 89
+        width: 190
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0613fa002c8dda84681ed1139b7e6c18
+      internalID: 1303880373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_75
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 8
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705619c2005fd7a4895b7f3335166d3d
+      internalID: -156457080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dynamo_76
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 8
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d598cbbed661b44bf2bd4bea64edaa
+      internalID: 667653876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2ad49b7352aa329488b5fbaf0c9b44fb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dynamo_0: -464120021
+      dynamo_1: 1858707541
+      dynamo_10: 860396502
+      dynamo_11: 456474818
+      dynamo_12: 1867626227
+      dynamo_13: 1075588451
+      dynamo_14: -1544265108
+      dynamo_15: 839040140
+      dynamo_16: 843261101
+      dynamo_17: 10052674
+      dynamo_18: -612775463
+      dynamo_19: 644828304
+      dynamo_2: -697814877
+      dynamo_20: 223374425
+      dynamo_21: 1710568306
+      dynamo_22: 1438528636
+      dynamo_23: -2083298919
+      dynamo_24: -2117322321
+      dynamo_25: -844628869
+      dynamo_26: -1594086904
+      dynamo_27: -1467452508
+      dynamo_28: 440513843
+      dynamo_29: -493290605
+      dynamo_3: 802535673
+      dynamo_30: 828641123
+      dynamo_31: -938490178
+      dynamo_32: -1272156132
+      dynamo_33: -792644594
+      dynamo_34: -1974138545
+      dynamo_35: 919045996
+      dynamo_36: -1919616020
+      dynamo_37: -2142414451
+      dynamo_38: 2146377873
+      dynamo_39: -180613745
+      dynamo_4: 1646795521
+      dynamo_40: -1348511808
+      dynamo_41: 2037354364
+      dynamo_42: -844488850
+      dynamo_43: 209546832
+      dynamo_44: -195003296
+      dynamo_45: 669270318
+      dynamo_46: 172806017
+      dynamo_47: 812079350
+      dynamo_48: -1210197096
+      dynamo_49: -1463375149
+      dynamo_5: -809964167
+      dynamo_50: 1737193044
+      dynamo_51: -762030486
+      dynamo_52: -343462316
+      dynamo_53: 766540849
+      dynamo_54: 1473830770
+      dynamo_55: 642941815
+      dynamo_56: 453728874
+      dynamo_57: 1758241977
+      dynamo_58: -1199124357
+      dynamo_59: -2128180289
+      dynamo_6: 1682044868
+      dynamo_60: 2054786602
+      dynamo_61: 1847318658
+      dynamo_62: -1914995700
+      dynamo_63: 236037285
+      dynamo_64: -1007203131
+      dynamo_65: 1736820528
+      dynamo_66: -1863001092
+      dynamo_67: -2039316105
+      dynamo_68: 79960326
+      dynamo_69: 525446102
+      dynamo_7: 11437382
+      dynamo_70: 1046645243
+      dynamo_71: 1667131467
+      dynamo_72: 882029265
+      dynamo_73: 1303880373
+      dynamo_74: 2056789169
+      dynamo_75: -156457080
+      dynamo_76: 667653876
+      dynamo_8: 311091678
+      dynamo_9: 1663560530
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

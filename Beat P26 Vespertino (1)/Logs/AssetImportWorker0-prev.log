@@ -1,0 +1,246 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.29f1 (204d6dc9ae1c) revision 2116973'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26200) 64bit Professional' Language: 'es' Physical Memory: 16242 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.29f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/LOANI/Downloads/Beat P26 Vespertino (1)
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57556
+Successfully changed project path to: C:/Users/LOANI/Downloads/Beat P26 Vespertino (1)
+C:/Users/LOANI/Downloads/Beat P26 Vespertino (1)
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [22448] Host "[IP] 192.168.100.24 [Port] 0 [Flags] 2 [Guid] 2465066187 [EditorId] 2465066187 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-UHCH489) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [22448] Host "[IP] 192.168.100.24 [Port] 0 [Flags] 2 [Guid] 2465066187 [EditorId] 2465066187 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-UHCH489) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 112.28 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.29f1 (204d6dc9ae1c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.29f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/LOANI/Downloads/Beat P26 Vespertino (1)/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x5917)
+    Vendor:   Intel
+    VRAM:     8121 MB
+    Driver:   31.0.101.2134
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.29f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.29f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.29f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56488
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.29f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006385 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 106.99 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.789 seconds
+Domain Reload Profiling:
+	ReloadAssembly (790ms)
+		BeginReloadAssembly (103ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (564ms)
+			LoadAssemblies (100ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (137ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (325ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (107ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (150ms)
+				ProcessInitializeOnLoadMethodAttributes (58ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006692 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 117.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.668 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1670ms)
+		BeginReloadAssembly (154ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (24ms)
+		EndReloadAssembly (1376ms)
+			LoadAssemblies (124ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (389ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (74ms)
+			SetupLoadedEditorAssemblies (749ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (118ms)
+				BeforeProcessingInitializeOnLoad (115ms)
+				ProcessInitializeOnLoadAttributes (479ms)
+				ProcessInitializeOnLoadMethodAttributes (22ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3931 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 39 unused Assets / (119.4 KB). Loaded Objects now: 4396.
+Memory consumption went from 141.8 MB to 141.7 MB.
+Total: 4.358500 ms (FindLiveObjects: 0.380900 ms CreateObjectMapping: 0.286200 ms MarkObjects: 3.578900 ms  DeleteObjects: 0.111400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:CustomObjectIndexerAttribute: bc11b3a6c3213fcdd17b65e7da85e133 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1064579.065543 seconds.
+  path: Assets/Script/Enemies/Miniboss/MinibossAttackState.cs
+  artifactKey: Guid(29cd8d49eb6ab2949a334deb0875c7d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Enemies/Miniboss/MinibossAttackState.cs using Guid(29cd8d49eb6ab2949a334deb0875c7d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '715ec00309e91ad90328a09ef2807bea') in 0.093329 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 261.935956 seconds.
+  path: Assets/Script/Enemies/Miniboss/MinibossControl.cs
+  artifactKey: Guid(5d1d8c6a12049d946b9b9f8fc741158a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Enemies/Miniboss/MinibossControl.cs using Guid(5d1d8c6a12049d946b9b9f8fc741158a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '366f5bd41fa9e64e7cade8c09126200d') in 0.022527 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 184.550805 seconds.
+  path: Assets/Script/Enemies/Miniboss/MinibossDashState.cs
+  artifactKey: Guid(61ebdad28d7843d498a29ee5836c1794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Enemies/Miniboss/MinibossDashState.cs using Guid(61ebdad28d7843d498a29ee5836c1794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf9745a3a938b847150e66acf7e1ee92') in 0.023045 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 190.806446 seconds.
+  path: Assets/Script/Enemies/Miniboss/MinibossDeadState.cs
+  artifactKey: Guid(3611e8a97a38fe44d9dc75465a550bbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Enemies/Miniboss/MinibossDeadState.cs using Guid(3611e8a97a38fe44d9dc75465a550bbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08378f1acf593198705eb7dd9f285020') in 0.022243 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 152.320350 seconds.
+  path: Assets/Script/Enemies/Miniboss/MinibossDieBehaviour.cs
+  artifactKey: Guid(4e3cf39bff7f0794190f83de77384751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Enemies/Miniboss/MinibossDieBehaviour.cs using Guid(4e3cf39bff7f0794190f83de77384751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98b12cee56995229c6518b9a56413224') in 0.016947 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 193.532048 seconds.
+  path: Assets/Script/Enemies/Miniboss/MinibossEnterState.cs
+  artifactKey: Guid(3e5d5291e85153743b64ac806e0befaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Enemies/Miniboss/MinibossEnterState.cs using Guid(3e5d5291e85153743b64ac806e0befaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce74ffcd9f8db7889e0bcd842491044d') in 0.019084 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 52.880414 seconds.
+  path: Assets/Script/Enemies/Miniboss/MinibossIdleState.cs
+  artifactKey: Guid(18cb6b557360dc44a929149cba5faf38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Enemies/Miniboss/MinibossIdleState.cs using Guid(18cb6b557360dc44a929149cba5faf38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '353f78ab05ad19109b3e1d5bf6603f2e') in 0.023949 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 132.937959 seconds.
+  path: Assets/Script/Enemies/Miniboss/MiniBossSensor.cs
+  artifactKey: Guid(24730eb35690dbb4ab413ef899486ace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Enemies/Miniboss/MiniBossSensor.cs using Guid(24730eb35690dbb4ab413ef899486ace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d8d960cac393196f9d7b168b41492e2') in 0.023797 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 355.476924 seconds.
+  path: Assets/Prefabs/EnemigoBase.prefab
+  artifactKey: Guid(f6c30123b5d037e48892373b6e5622bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/EnemigoBase.prefab using Guid(f6c30123b5d037e48892373b6e5622bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80d7a1ff136d28279144f4d9bef6516b') in 0.387002 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 143.226682 seconds.
+  path: Assets/Animations/Miniboss/Miniboss controller.controller
+  artifactKey: Guid(e698b7f76a144f24ca6f4a4f0bff76e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Miniboss/Miniboss controller.controller using Guid(e698b7f76a144f24ca6f4a4f0bff76e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c02528d1ac02ac7f4d2aec6485f7a53') in 0.025643 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 55.790711 seconds.
+  path: Assets/Animations/Miniboss/Miniboss NODamage.anim
+  artifactKey: Guid(13e09c48f549e0c439cb9e46543973e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Miniboss/Miniboss NODamage.anim using Guid(13e09c48f549e0c439cb9e46543973e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65d8447833ddb3731ca255c1a829e36d') in 0.022460 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.844720 seconds.
+  path: Assets/Animations/Miniboss/Miniboss Attack.anim
+  artifactKey: Guid(f086dc95267e8ee40b09ffc861a3026e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Miniboss/Miniboss Attack.anim using Guid(f086dc95267e8ee40b09ffc861a3026e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce84b34eadf0af56aa755b00574f0a8c') in 0.018401 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 646.630454 seconds.
+  path: Assets/Sprites/dynamo.png
+  artifactKey: Guid(6812d282082f14c4f92392bbac490c8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/dynamo.png using Guid(6812d282082f14c4f92392bbac490c8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a92e0e576d6cc361966ce9f792b226c') in 0.615384 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1730.405448 seconds.
+  path: Assets/Script/SceneChange.cs
+  artifactKey: Guid(00dffd308c4330c4782dbf222b245650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/SceneChange.cs using Guid(00dffd308c4330c4782dbf222b245650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '567d08dee43e9badd088dbc72d7f76e2') in 0.024372 seconds 
