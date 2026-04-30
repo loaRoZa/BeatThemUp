@@ -1,0 +1,3599 @@
+fileFormatVersion: 2
+guid: 2b539aa00cbcabd4d971f08a0fa6193e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Amy Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 875
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004e9d2fd2eaccc4ea7b76233a1d04b7
+      internalID: 1273417240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 875
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21df6db31a0060468356a5239f14c09
+      internalID: 1859904712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 875
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e64094e96980f44a994bb008386dd64
+      internalID: 181017525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 875
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82452929c78f1d44886d7283052b9ed
+      internalID: 1382009985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 875
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919bb25ebc19c9146b467a6ec40efb5e
+      internalID: -431896756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 879
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0082fb02dd626e94693951b3f51bcfc9
+      internalID: 1718831804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 878
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05709a69e5d327f4c87c0333ae5a107a
+      internalID: -468577320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 875
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65219694d54e88845bd9ce0a1f031dac
+      internalID: 1219813659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 879
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1240be6cc5fc2bc419e6c63572c973fe
+      internalID: -1278176357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 877
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227b2bd63c132b94c893278b6f52cb5a
+      internalID: 426607203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 876
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f920663fe9b79b143a5f6c3e3b31902e
+      internalID: -279165007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 876
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd8b1b6155ec2c4eb8fc4335af01252
+      internalID: -144337257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 875
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a818d610e94fac4b8b1df6200e54ece
+      internalID: -1205521821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 876
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9b973db64b15b44ac63e5c847ad712
+      internalID: 1838111042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 876
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee2d66d1683b1e428f4040d2bede427
+      internalID: 1537402195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 833
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da4596c4c620ec4781e80d3fb48f7b8
+      internalID: 1860330456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 835
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13933730c23f93a45a1b28e8999286a1
+      internalID: -10959167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 833
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3095579e397a0b488b10b1094428dfa
+      internalID: 2109707294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 834
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d37a81367cc9247994968c3697210b
+      internalID: -864491508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 832
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c179401cd3a61b64288aa623d988618d
+      internalID: 247715214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 827
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7a43b6fa1fc4e4a9e0de91b1a7a731
+      internalID: -568331991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 827
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb385264eda43943a2b14ce2c0cef33
+      internalID: 611343020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 827
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9dbf34891fb0d4988ca18ca55f0d54
+      internalID: 428643427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 827
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0e9af75056b0348bdc62890be02b02
+      internalID: -1405427411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 827
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145d13d20da735045be87d23f7d7be4e
+      internalID: 1536122787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 827
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e1366cc7b94c64488f6c88996c4cab
+      internalID: 1686744868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 827
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016940ba99da41644bb8a707681cc183
+      internalID: -50289013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 827
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c1f9744d9f2b84cb34a944b31f2658
+      internalID: 1507115167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 827
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1b6c5be2c7fec48a6094665a90ab5b
+      internalID: -537312571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 827
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4388da6c5a0c5e140baf4986a85af332
+      internalID: 111755283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 780
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc4836d54cbcc6429bfb9eb6bb4b0e1
+      internalID: 1324213305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 779
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae98e7d8f1f942643afa37304fa5656f
+      internalID: -998022074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 780
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78628819098670429d6f51fe01fa5db
+      internalID: -249120850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 780
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc78502e9a32d8545b66acc69798088b
+      internalID: -1425806554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 780
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720c48ff2aa60da4992ec1afdbd9dfd3
+      internalID: 590699217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 780
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3314587cd4b7be24aa0637b3c4161463
+      internalID: 522986900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 780
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8940b7495d81a45b506ea7d88ee864
+      internalID: -847945426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 780
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0378a068678d248bebd8234ea11965
+      internalID: -1573515906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 784
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e125bbc0741e644bbac89188124dbf6
+      internalID: -658228234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 784
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ff34285a41a2442b1fac7c019dbc6d
+      internalID: -155257436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 780
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3f53d08992ea7498450dca822ab6ac
+      internalID: -1257242026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 780
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89db11b0d3191624898668b63b13719e
+      internalID: 709831222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 779
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e4ddb8def8ca247829725ca0529d57
+      internalID: 1376698749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 779
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9aef1eaeda4ed545a0ff706a5e89761
+      internalID: -1422043805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 779
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060d0f40006e5d944b7e8cb53bc5a467
+      internalID: -1631539593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 742
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e895da19f8fda0c4f906e5e455b938d9
+      internalID: -1928131993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 741
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb0adb4090887c4abefa90775cc30d6
+      internalID: 2105739806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 742
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd8ba2d58a8da04a9ee1c7ba753191b
+      internalID: -1702086553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 741
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df6a95f1d248ae45b30aa595a820dcf
+      internalID: -1158765093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 737
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa41a425975df845883ba83cbade389
+      internalID: -1764898746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 741
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6737d3ba947869c4d8b353337aef3776
+      internalID: 253010985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 741
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e4ddecd50e2854387fc59d6c549757
+      internalID: -1449835286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 738
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898eae9f44703474c904d33ab498c8f8
+      internalID: -833104037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 738
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dc0dba5bc4be947a57993ebfc85fbb
+      internalID: 327374697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 669
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0d15b220d401c4fa44da8e788e6039
+      internalID: 29257737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 669
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530bfbf68168f5a4293324c8f1038e93
+      internalID: 1367423684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 669
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9828dc17df6597e4aa61da7a718d1dee
+      internalID: -736744883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 669
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9267133db42788949ba8ed43ec9ba76f
+      internalID: 1342083517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 669
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25509595078c1fc4fbc532bfcc400040
+      internalID: -1328206843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 669
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724f68061a0a7d747bd1cfefa8dea5ea
+      internalID: 228159339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 636
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10468c90d6a8ef4c995ee72b61f9d76
+      internalID: -510343643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 578
+        width: 122
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf124cf8c13b70409ed8a87256a2104
+      internalID: -13531155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 696
+        width: 131
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b1900a1ee53354184cdba04c2b709d
+      internalID: 1766671352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 681
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ec1ae77704f254b968e8f12ab81e91
+      internalID: 140951944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 673
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f76338dafb436e498869263de53ad4c
+      internalID: 1913785215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 631
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28180c67ac2cfb641924d6848e19db41
+      internalID: -944426011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 611
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbd172dc98eedf4ea5a1854cbe680b8
+      internalID: 1098742102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 580
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa6cad3af9a03340962fe7f65883ae5
+      internalID: -1223457588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 580
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed2ad8f7d2cc4242bab992ff9343b1a
+      internalID: 1752103647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 580
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daa7dab9279c4c4c8211dff18816433
+      internalID: 959171589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 580
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3abe3831cdd49a4cb1355438a4b2284
+      internalID: -1122755748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 589
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e767ff0e5ce003948a238b8cae5571ec
+      internalID: -738541367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 589
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4d73a5a17975343bd864729831c0b1
+      internalID: 184710248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 582
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5345b1fe132e234fa0b8303a0ebf42e
+      internalID: 1577812449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 558
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbd86194fe46264ebccb9b0c11c098b
+      internalID: -868447977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 558
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e63d6c2261d0a4ab4e320f3104b647
+      internalID: 1534979636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 558
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d49031eef9a984bac46eababdff947
+      internalID: 654791779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 563
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edaea888e3de32744bbd0ab5b7c3c861
+      internalID: 1656343751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 560
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a9791db5845d044b807bf34dc7cd9f
+      internalID: -983807885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 561
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a747ba6500a4b8c47972dfbba80447c6
+      internalID: 944884595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 563
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91e494043b4b404fb2047efb815564a
+      internalID: 1002248347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 564
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a8ccdc2401339498d03663477adc71
+      internalID: -811946269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 519
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62aa8b5c6be5e8b4e89dc4b3128a99df
+      internalID: -601090977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 523
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2456b87a9593b1489cc1d166688dc95
+      internalID: 236237567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 521
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0b8a98f7463ee428d206826ebc3301
+      internalID: -1687948797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 519
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630c6cb45def3714799e092eee493a41
+      internalID: -2017738250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 525
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94521c7dd5bd2a04c9c97c0922bc80f5
+      internalID: 628687334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_87
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 528
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c786cedef2598f240bd090e9c8c386ef
+      internalID: 1186419911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 528
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f726667f3148ae4c800b5376d8a0903
+      internalID: -302658417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 528
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b8ac2adec0b6749b9c98581a452944
+      internalID: 1628889283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_90
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 528
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d2f94c21877974ea240a9c3cf799e4
+      internalID: 1783283006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_91
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 528
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a995862f5243ef0428e996c266d16383
+      internalID: -1701145325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_92
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 542
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6373349b554d744b37c6ff03419fcb
+      internalID: -56932670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_93
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 541
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ef9cd0276a7714d82428460b40cbd4
+      internalID: -1258504336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_94
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 540
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ca583b63ae22e4ab2c398e4f1f7546
+      internalID: 218724742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_95
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 467
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34958083a6be4864caeb77c568529d1b
+      internalID: -49564857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_96
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 466
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d7b0957ba27104a8665efbf37a4616
+      internalID: -288624605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_97
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 466
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066b9fca9832e44408a9b52ac8407c62
+      internalID: 2000486493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_98
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 466
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f0c148771db354d9fd265ce00b39b0
+      internalID: 1829492068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_99
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 466
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffda4d73f06ef945bc10b6ded63e6ba
+      internalID: 2010783438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_100
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 467
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7967212d95a584084e078882c2468a
+      internalID: 870889434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_101
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 466
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1055c07bc5ee2be43a4ce25de9df73db
+      internalID: -143894728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_102
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 467
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb542de37b79a74e8433275d7096faa
+      internalID: -546368152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_103
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 467
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3bdf61a682a574a954f58c93a8ca7f
+      internalID: -126084961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_104
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 466
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b681f268818c1b646854695a2fc6116f
+      internalID: 1349568347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_105
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 467
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882f3d956a7db4741946d652d1b9807e
+      internalID: -1351058010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_106
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 406
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf63876871a4b6a42a1709c08fe1eff1
+      internalID: -1069711526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_107
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 406
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686d964c061d8744987fc60a13c5c289
+      internalID: -1097058974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_108
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 405
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38df86ebac06b2b42a60409d22aace05
+      internalID: 544721293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_109
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 410
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7426855aa96fcd84d991b5c49d7ff1cc
+      internalID: -1009795703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_110
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 402
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c316d1a1febccb4188ebe649fbffd29
+      internalID: 563774895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_111
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 412
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e54a3fd4869eab48b9abdfb92db08b7
+      internalID: 1681020716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_112
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 408
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9587d327c93605d468ae083b443d31e8
+      internalID: -1377211101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_113
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 410
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac437166653132640997b9d689aba169
+      internalID: 1392073500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_114
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 411
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a126723523a89d04b93d4e2ad301a66f
+      internalID: 1013109122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_115
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 411
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611f115a615e96147887355da9bfe4d1
+      internalID: 984529721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_116
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 407
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb70d4d3925bfc4eba00cfca219e461
+      internalID: 1690258957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_117
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 347
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b470dd5d047fef44810b0b6b04a69b4
+      internalID: -2048841117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_118
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 347
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d82811a1f02cac4c991e4a4c33663ca
+      internalID: 1935648732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_119
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 348
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6437d1c31a1c1a347be36be9ebc50000
+      internalID: 581333754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_120
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 348
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdacb4ac6470984ebbc9a2a641bf30a
+      internalID: -1585312630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_121
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 347
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fd45ca96e58bf49b1de4002091b58f
+      internalID: -299062351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_122
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 347
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4b0690241f8644f8305107ba941b33
+      internalID: -70361241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_123
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 348
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8539c1f997e346649873d566f380ece1
+      internalID: 1268589323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_124
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 352
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f9eaa83cf139f4f8a23a6a7d0beef5
+      internalID: -297040863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_125
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 349
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0fc2793d563ed49ad3f182814a225f
+      internalID: -1393276755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_126
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 347
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f22506b1227c6a4b8bafd1670515ad8
+      internalID: -175029799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_127
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 293
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ade7f23ab1e5944d8f086fce00f56c8
+      internalID: 838790112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_128
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 294
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3aa7f009afefb418c49a5039f4797f
+      internalID: -571111467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_129
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 293
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee79b870d14e34e4a9508685c6ffc50b
+      internalID: 713874557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_130
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 295
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5fc3556117acc438a9ea410e4875bc
+      internalID: -1209838222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_131
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 295
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fa69a5d14c03f4ead03e1279dcc7b7
+      internalID: -109565270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_132
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 295
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3280025b71ad149ad618f4e481b1a1
+      internalID: 1764472496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_133
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 103
+        width: 16
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7af2f8e1ab64240807262589dc3967
+      internalID: -121335931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_134
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 103
+        width: 16
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf240fffa5036214c80f3a74c1ecba5c
+      internalID: 1246987989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_135
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 103
+        width: 16
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bbf74c2ad2a5e4b8d4a44c61f7c529
+      internalID: -93652589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_136
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 223
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be472b2add3b620469ee2737bd30925d
+      internalID: 1617551671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_137
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 223
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a96be9ccde4c15458e79ededb3aabbc
+      internalID: 968366565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_138
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 217
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a691f2ef7254bf449a76dc0463512d74
+      internalID: -648752706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_139
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 220
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54336bf52f8db84786c2a951579a4aa
+      internalID: 1789955360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_140
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 221
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ce8b58b2635cd47834e87905719c22
+      internalID: 1999555064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_141
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 225
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce683210c97b78941bd7be68f9125a52
+      internalID: -449034494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_142
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 228
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e75eb31507a15e4eaa7733fca2ad7dc
+      internalID: 1330531567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_143
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 232
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51805be9b4b15048aaf24faf7895f6d
+      internalID: -528850592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_144
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 221
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a16b2521671d849a76f602a7e87ce7
+      internalID: 2115708737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_145
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 219
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243ebd32e0ac8064cbfa3759c9bf333d
+      internalID: -1407987452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_146
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 109
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7564af2909c11149bd588311dc5cc0e
+      internalID: -1310552353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_147
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 109
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46667f014e9092c4a8e1098afb1fe4d8
+      internalID: -460344371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_148
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 108
+        width: 94
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e808ddabf020e714c961a4cfaafe1810
+      internalID: -2112486001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_149
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 108
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775b41bc2b713f248ab9ae7c49377a58
+      internalID: -1376326275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_150
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 113
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7326ce820c2afd64883ec0025bd74db6
+      internalID: -55161746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_151
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 113
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8667d9e135b2e245b5f64579632a620
+      internalID: -1189154305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_152
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 113
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19308cd5bb197646acda2be590235f1
+      internalID: -414331737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_153
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 23
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccc01baa64def2478f50963bfd50c1d
+      internalID: 601975999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_154
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 23
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f74920560582de47867d58e80e05361
+      internalID: -1780912184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_155
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 23
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf577a3533e9ee44ab6cc2674f31fe8
+      internalID: -268769398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_156
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 23
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b10f112c77f044fb5b8e145cb89898
+      internalID: 1351494680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy Sprites_157
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 23
+        width: 134
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e65b4b4418c576449aeae594d79c675
+      internalID: 1508875130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 76fcc4dd45b67c4459e6d1408a192757
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Amy Sprites_0: 1273417240
+      Amy Sprites_1: 1859904712
+      Amy Sprites_10: -279165007
+      Amy Sprites_100: 870889434
+      Amy Sprites_101: -143894728
+      Amy Sprites_102: -546368152
+      Amy Sprites_103: -126084961
+      Amy Sprites_104: 1349568347
+      Amy Sprites_105: -1351058010
+      Amy Sprites_106: -1069711526
+      Amy Sprites_107: -1097058974
+      Amy Sprites_108: 544721293
+      Amy Sprites_109: -1009795703
+      Amy Sprites_11: -144337257
+      Amy Sprites_110: 563774895
+      Amy Sprites_111: 1681020716
+      Amy Sprites_112: -1377211101
+      Amy Sprites_113: 1392073500
+      Amy Sprites_114: 1013109122
+      Amy Sprites_115: 984529721
+      Amy Sprites_116: 1690258957
+      Amy Sprites_117: -2048841117
+      Amy Sprites_118: 1935648732
+      Amy Sprites_119: 581333754
+      Amy Sprites_12: -1205521821
+      Amy Sprites_120: -1585312630
+      Amy Sprites_121: -299062351
+      Amy Sprites_122: -70361241
+      Amy Sprites_123: 1268589323
+      Amy Sprites_124: -297040863
+      Amy Sprites_125: -1393276755
+      Amy Sprites_126: -175029799
+      Amy Sprites_127: 838790112
+      Amy Sprites_128: -571111467
+      Amy Sprites_129: 713874557
+      Amy Sprites_13: 1838111042
+      Amy Sprites_130: -1209838222
+      Amy Sprites_131: -109565270
+      Amy Sprites_132: 1764472496
+      Amy Sprites_133: -121335931
+      Amy Sprites_134: 1246987989
+      Amy Sprites_135: -93652589
+      Amy Sprites_136: 1617551671
+      Amy Sprites_137: 968366565
+      Amy Sprites_138: -648752706
+      Amy Sprites_139: 1789955360
+      Amy Sprites_14: 1537402195
+      Amy Sprites_140: 1999555064
+      Amy Sprites_141: -449034494
+      Amy Sprites_142: 1330531567
+      Amy Sprites_143: -528850592
+      Amy Sprites_144: 2115708737
+      Amy Sprites_145: -1407987452
+      Amy Sprites_146: -1310552353
+      Amy Sprites_147: -460344371
+      Amy Sprites_148: -2112486001
+      Amy Sprites_149: -1376326275
+      Amy Sprites_15: 1860330456
+      Amy Sprites_150: -55161746
+      Amy Sprites_151: -1189154305
+      Amy Sprites_152: -414331737
+      Amy Sprites_153: 601975999
+      Amy Sprites_154: -1780912184
+      Amy Sprites_155: -268769398
+      Amy Sprites_156: 1351494680
+      Amy Sprites_157: 1508875130
+      Amy Sprites_16: -10959167
+      Amy Sprites_17: 2109707294
+      Amy Sprites_18: -864491508
+      Amy Sprites_19: 247715214
+      Amy Sprites_2: 181017525
+      Amy Sprites_20: -568331991
+      Amy Sprites_21: 611343020
+      Amy Sprites_22: 428643427
+      Amy Sprites_23: -1405427411
+      Amy Sprites_24: 1536122787
+      Amy Sprites_25: 1686744868
+      Amy Sprites_26: -50289013
+      Amy Sprites_27: 1507115167
+      Amy Sprites_28: -537312571
+      Amy Sprites_29: 111755283
+      Amy Sprites_3: 1382009985
+      Amy Sprites_30: 1324213305
+      Amy Sprites_31: -998022074
+      Amy Sprites_32: -249120850
+      Amy Sprites_33: -1425806554
+      Amy Sprites_34: 590699217
+      Amy Sprites_35: 522986900
+      Amy Sprites_36: -847945426
+      Amy Sprites_37: -1573515906
+      Amy Sprites_38: -658228234
+      Amy Sprites_39: -155257436
+      Amy Sprites_4: -431896756
+      Amy Sprites_40: -1257242026
+      Amy Sprites_41: 709831222
+      Amy Sprites_42: 1376698749
+      Amy Sprites_43: -1422043805
+      Amy Sprites_44: -1631539593
+      Amy Sprites_45: -1928131993
+      Amy Sprites_46: 2105739806
+      Amy Sprites_47: -1702086553
+      Amy Sprites_48: -1158765093
+      Amy Sprites_49: -1764898746
+      Amy Sprites_5: 1718831804
+      Amy Sprites_50: 253010985
+      Amy Sprites_51: -1449835286
+      Amy Sprites_52: -833104037
+      Amy Sprites_53: 327374697
+      Amy Sprites_54: 29257737
+      Amy Sprites_55: 1367423684
+      Amy Sprites_56: -736744883
+      Amy Sprites_57: 1342083517
+      Amy Sprites_58: -1328206843
+      Amy Sprites_59: 228159339
+      Amy Sprites_6: -468577320
+      Amy Sprites_60: -510343643
+      Amy Sprites_61: -13531155
+      Amy Sprites_62: 1766671352
+      Amy Sprites_63: 140951944
+      Amy Sprites_64: 1913785215
+      Amy Sprites_65: -944426011
+      Amy Sprites_66: 1098742102
+      Amy Sprites_67: -1223457588
+      Amy Sprites_68: 1752103647
+      Amy Sprites_69: 959171589
+      Amy Sprites_7: 1219813659
+      Amy Sprites_70: -1122755748
+      Amy Sprites_71: -738541367
+      Amy Sprites_72: 184710248
+      Amy Sprites_73: 1577812449
+      Amy Sprites_74: -868447977
+      Amy Sprites_75: 1534979636
+      Amy Sprites_76: 654791779
+      Amy Sprites_77: 1656343751
+      Amy Sprites_78: -983807885
+      Amy Sprites_79: 944884595
+      Amy Sprites_8: -1278176357
+      Amy Sprites_80: 1002248347
+      Amy Sprites_81: -811946269
+      Amy Sprites_82: -601090977
+      Amy Sprites_83: 236237567
+      Amy Sprites_84: -1687948797
+      Amy Sprites_85: -2017738250
+      Amy Sprites_86: 628687334
+      Amy Sprites_87: 1186419911
+      Amy Sprites_88: -302658417
+      Amy Sprites_89: 1628889283
+      Amy Sprites_9: 426607203
+      Amy Sprites_90: 1783283006
+      Amy Sprites_91: -1701145325
+      Amy Sprites_92: -56932670
+      Amy Sprites_93: -1258504336
+      Amy Sprites_94: 218724742
+      Amy Sprites_95: -49564857
+      Amy Sprites_96: -288624605
+      Amy Sprites_97: 2000486493
+      Amy Sprites_98: 1829492068
+      Amy Sprites_99: 2010783438
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
